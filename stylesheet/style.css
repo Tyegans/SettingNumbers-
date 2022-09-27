@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+#countLabel{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4em;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    padding:1em;
+}
+button{
+    padding:2em;
+    margin:1em;
+    border-radius: grey;
+    background-color:black;
+    color:wheat;
+    border-bottom-left-radius: 25px;
+
+}
